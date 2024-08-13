@@ -4,7 +4,6 @@
 
 This Advanced Derivatives Pricing Application is a powerful, user-friendly tool designed for financial analysts, traders, and students to price and analyze various derivative instruments. Built with Python and PyQt5, it offers a graphical interface for pricing barrier options, calculating Greeks, and estimating prices for futures and CFDs (Contracts for Difference).
 
-![Application Screenshot](./screenshots/main_window.png)
 
 ## Features
 
