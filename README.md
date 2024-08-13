@@ -18,12 +18,12 @@ This Advanced Derivatives Pricing Application is a powerful, user-friendly tool 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/advanced-derivatives-pricing.git
+   git clone https://github.com/yourusername/Derivative-Pricing.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd advanced-derivatives-pricing
+   cd Derivative-Pricing
    ```
 
 3. Install the required dependencies:
